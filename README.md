@@ -1,9 +1,21 @@
-# React + Vite
+# Cotizador de Seguros de Auto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En este proyecto se desarrolló un formulario donde a partir de los datos proporcionados hará un cálculo para un seguro de auto. Su propósito es practicar el uso de Context API.
 
-Currently, two official plugins are available:
+![Formulario](https://github.com/dianagelbern/Cotizador-Seguro/blob/main/src/assets/cotizador.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Cotizador-Seguro
+## Principales características del proyecto
+
+- Context API
+- Formulario (validación)
+- Hooks
+  - useContext
+  - useState
+  - UseCallback
+  - useMemo
+  - useRef
+- Tailwind
+- JavaScript
+- Vite
+
+En el siguiente enlace podemos apreciar el funcionamiento del proyecto: [Cotizador](https://64f05d57c17975555c5a612a--astonishing-gelato-48ed3e.netlify.app/) 
